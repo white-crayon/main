@@ -799,7 +799,7 @@ h3,
 
 h4,
 .h4 {
-  font-size: 1.5rem;
+  font-size: 15px!important;
 }
 
 h5,
@@ -12719,7 +12719,7 @@ div#services a:after {
 
 div#services p {
   margin-bottom: 30px;
-  width: 50%;
+  width: 80%;
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
